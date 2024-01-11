@@ -3,7 +3,7 @@ Lab 1 - First Impression of Python
 (100 marks in total, including
 3 exercises + submission (10 marks))
 
-Your Name 😍:
+Your Name 😍: Garner Lavoie
 Lab Due: 11:00am on Jan. 12
 
 Objective:
