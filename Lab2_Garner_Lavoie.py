@@ -3,7 +3,7 @@ Lab 2 - Fundamentals of Python: variables, expressions, statements and function
 (100 marks in total, including
 5 exercises (80 marks) + submission (20 marks))
 
-Your Name 😍:
+Your Name : Garner Lavoie
 Lab Due: 11:00am on Jan. 19
 
 Objective:
